@@ -1,5 +1,5 @@
-package com.qspiders.pack;
 
+package com.qspiders.pack;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
