@@ -12,3 +12,4 @@ public class App
         System.out.println("I Love GitHub and Maven");
     }
 }
+
